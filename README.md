@@ -15,3 +15,5 @@
 - metricas
 - resiliencia com circuit breaker
 - autorizacao / autenticacao
+
+https://www.decoderproject.com/modelagem-de-uma-arquitetura-de-microservices-com-spring
